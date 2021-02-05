@@ -14,8 +14,15 @@ dist/
 downloads/
 eggs/
 .eggs/
+<<<<<<< HEAD
 lib/
 lib64/
+=======
+bin/
+lib/
+lib64/
+share/
+>>>>>>> Commit Inicial
 parts/
 sdist/
 var/
@@ -126,4 +133,8 @@ venv.bak/
 dmypy.json
 
 # Pyre type checker
+<<<<<<< HEAD
 .pyre/
+=======
+.pyre/
+>>>>>>> Commit Inicial
